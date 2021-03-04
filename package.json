@@ -9,7 +9,6 @@
     "deploy": "gh-pages -d dist"
   },
   "author": "Jani Heinikoski",
-  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/jani-heinikoski/sds_front_end/issues"
   },
